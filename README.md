@@ -4,4 +4,4 @@
 Currently, I am working with:
 - C++
 - C#
-- Python
+- Javascript
